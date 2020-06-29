@@ -5,6 +5,10 @@
 # terminal emulator
 super + Return
 	xfce4-terminal
+	
+# exit
+alt + x	
+	./shutdown.sh
 
 #launch retro
 super + d
