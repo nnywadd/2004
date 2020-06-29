@@ -6,6 +6,8 @@ xfce4-panel &
 
 blueman-applet &
 
+xfce4-power-settings -b &
+
 network-manager-applet &
 
 compton &
