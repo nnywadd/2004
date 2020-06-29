@@ -25,7 +25,10 @@ MiscRewrapOnResize=TRUE
 MiscUseShiftArrowsToScroll=FALSE
 MiscSlimTabs=FALSE
 MiscNewTabAdjacent=FALSE
-ColorForeground=#0573ab2db5c1
+MiscSearchDialogOpacity=100
+MiscShowUnsafePasteDialog=TRUE
+ColorForeground=#00d6fbbace91
 ScrollingBar=TERMINAL_SCROLLBAR_NONE
-BackgroundDarkness=0.660000
+FontName=Nimbus Mono PS 12
+BackgroundDarkness=0.700000
 
