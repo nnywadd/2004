@@ -6,6 +6,10 @@
 super + Return
 	xfce4-terminal
 	
+# screenshot
+Print
+	gnome-screenshot
+	
 # exit
 alt + x	
 	./shutdown.sh
