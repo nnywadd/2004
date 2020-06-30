@@ -8,7 +8,7 @@ blueman-applet &
 
 xfce4-power-settings -b &
 
-network-manager-applet &
+nm-applet --indicator &
 
 compton &
 
